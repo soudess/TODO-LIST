@@ -1,0 +1,32 @@
+<taches>
+  <tache>
+    <todo>faire du sport</todo>
+  </tache>
+  <tache>
+    <todo>lire un chapitre d’un livre</todo>
+  </tache>
+  <tache>
+    <todo>coder un projet perso</todo>
+  </tache>
+  <tache>
+    <todo>réviser les cours d’algèbre</todo>
+  </tache>
+  <tache>
+    <todo>faire une vidéo pour SoudessDev</todo>
+  </tache>
+  <tache>
+    <todo>étudier une API REST</todo>
+  </tache>
+  <tache>
+    <todo>organiser les fichiers sur l’ordi</todo>
+  </tache>
+  <tache>
+    <todo>préparer les publications pour ProSchool</todo>
+  </tache>
+  <tache>
+    <todo>regarder un tuto Laravel avancé</todo>
+  </tache>
+  <tache>
+    <todo>faire un peu de méditation</todo>
+  </tache>
+</taches>

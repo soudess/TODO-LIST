@@ -10,7 +10,6 @@ $xml->appendChild($racine);
 
 foreach ($result as $todo) {
     $tache = $xml->createElement('tache');
-    $tache->appendChild($xml->createElement('id', $todo['id']));
     $tache->appendChild($xml->createElement('todo', htmlspecialchars($todo['todo'])));
     $racine->appendChild($tache);
 }
